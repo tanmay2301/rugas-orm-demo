@@ -2,7 +2,7 @@
 
 A simple web application for managing customers, products, orders, and confirmations using **React**, **React Router**, and **TailwindCSS**. The project features a **beautiful and responsive UI**, making navigation seamless.
 
-🚀 **Live Demo:** [Rugas ORM Demo](https://rugas-orm-demo-2a30.onrender.com)
+🚀 **Live Demo:** [My Store](https://rugas-orm-demo-2a30.onrender.com)
 
 ## 🌟 Features
 
