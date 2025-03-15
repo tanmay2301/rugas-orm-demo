@@ -1,4 +1,4 @@
-# Rugas ORM Demo
+# My Store
 
 A simple web application for managing customers, products, orders, and confirmations using **React**, **React Router**, and **TailwindCSS**. The project features a **beautiful and responsive UI**, making navigation seamless.
 
